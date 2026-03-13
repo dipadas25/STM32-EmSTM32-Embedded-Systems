@@ -1,0 +1,16 @@
+../Core/Src/main.c:71:6:UART_Print	16	static
+../Core/Src/main.c:76:6:Print_Menu	8	static
+../Core/Src/main.c:89:6:LSM6DSO_WriteReg	24	static
+../Core/Src/main.c:101:9:LSM6DSO_ReadReg	32	static
+../Core/Src/main.c:116:6:LSM6DSO_ReadMulti	24	static
+../Core/Src/main.c:126:6:LSM6DSO_Init	8	static
+../Core/Src/main.c:138:9:LSM6DSO_ReadTempRaw	16	static
+../Core/Src/main.c:145:6:LSM6DSO_ReadAccelRaw	32	static
+../Core/Src/main.c:155:6:LSM6DSO_ReadGyroRaw	32	static
+../Core/Src/main.c:171:5:main	40	static
+../Core/Src/main.c:282:6:SystemClock_Config	120	static
+../Core/Src/main.c:331:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:366:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:402:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:419:6:MPU_Config	24	static
+../Core/Src/main.c:441:6:Error_Handler	4	static,ignoring_inline_asm

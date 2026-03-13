@@ -1,0 +1,12 @@
+../Core/Src/main.c:46:13:CS_Low	1
+../Core/Src/main.c:51:13:CS_High	1
+../Core/Src/main.c:56:13:uart_print	1
+../Core/Src/main.c:65:13:SPI1_TransferByte_IT	3
+../Core/Src/main.c:86:6:HAL_SPI_TxRxCpltCallback	2
+../Core/Src/main.c:99:6:HAL_SPI_ErrorCallback	2
+../Core/Src/main.c:112:5:main	2
+../Core/Src/main.c:161:6:SystemClock_Config	4
+../Core/Src/main.c:201:13:MX_SPI1_Init	2
+../Core/Src/main.c:229:13:MX_USART6_UART_Init	5
+../Core/Src/main.c:249:13:MX_GPIO_Init	1
+../Core/Src/main.c:266:6:Error_Handler	1

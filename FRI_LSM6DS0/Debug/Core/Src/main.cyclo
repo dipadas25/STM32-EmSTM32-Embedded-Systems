@@ -1,0 +1,16 @@
+../Core/Src/main.c:71:6:UART_Print	1
+../Core/Src/main.c:76:6:Print_Menu	1
+../Core/Src/main.c:89:6:LSM6DSO_WriteReg	1
+../Core/Src/main.c:101:9:LSM6DSO_ReadReg	1
+../Core/Src/main.c:116:6:LSM6DSO_ReadMulti	1
+../Core/Src/main.c:126:6:LSM6DSO_Init	1
+../Core/Src/main.c:138:9:LSM6DSO_ReadTempRaw	1
+../Core/Src/main.c:145:6:LSM6DSO_ReadAccelRaw	1
+../Core/Src/main.c:155:6:LSM6DSO_ReadGyroRaw	1
+../Core/Src/main.c:171:5:main	16
+../Core/Src/main.c:282:6:SystemClock_Config	4
+../Core/Src/main.c:331:13:MX_SPI1_Init	2
+../Core/Src/main.c:366:13:MX_USART3_UART_Init	5
+../Core/Src/main.c:402:13:MX_GPIO_Init	1
+../Core/Src/main.c:419:6:MPU_Config	1
+../Core/Src/main.c:441:6:Error_Handler	1
